@@ -1,3 +1,5 @@
-# dark-light-calculator
-a dark/light claculator created by html,css and Javascript
+# dark-light-calculator/
+
+a dark/light claculator created by html,css and Javascript.
+
 the calculator dark and light mood switches by a toggle ◘
